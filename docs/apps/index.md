@@ -83,7 +83,7 @@ features:
     link: https://play.google.com/store/apps/details?id=com.learn.wizdom
   - title: BetterMe
     details: Self-help meditation for people who can't meditate.
-    link:https://play.google.com/store/apps/details?id=com.gen.bettermeditation
+    link: https://play.google.com/store/apps/details?id=com.gen.bettermeditation
   - title: Deepstash
     details: Daily bite-sized knowledge from books, articles, podcasts & more.
     link: https://play.google.com/store/apps/details?id=com.deepstash
