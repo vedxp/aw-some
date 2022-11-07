@@ -1,0 +1,25 @@
+{
+  "name": "Aw-some",
+  "version": "1.0.0",
+  "description": "An awesome 🎉 collection of useful apps & websites curated with ♥️",
+  "main": "index.js",
+  "repository": "https://github.com/VedxP/aw-some",
+  "author": "VedxP",
+  "license": "GPL-3.0",
+  "private": true,
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.27",
+    "vue": "3.2.41"
+  },
+   "scripts": {
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search"
+      ]
+    }
+  }
+}
