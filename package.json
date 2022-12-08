@@ -1,11 +1,4 @@
 {
-  "name": "Aw-some",
-  "version": "1.0.0",
-  "description": "An awesome 🎉 collection of useful apps & websites curated with ♥️",
-  "main": "index.js",
-  "repository": "https://github.com/VedxP/aw-some",
-  "author": "VedxP",
-  "license": "GPL-3.0",
   "private": true,
   "devDependencies": {
     "vitepress": "1.0.0-alpha.30",
